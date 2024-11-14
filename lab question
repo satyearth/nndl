@@ -1,0 +1,11 @@
+Program 1: Implement a perceptron model in Python to simulate the behavior of an AND gate and OR gate. Use sigmoid activation function and a single perceptron
+
+Program 2: Implement a basic neural network (one or two hidden layers) in Python using libraries like TensorFlow or Keras. Use diabetes dataset, Cancer dataset and Sonar dataset. Activation functions – Sigmoid, tanh, ReLU or Softmax.
+
+Program 3: Implement a stacked autoencoder using Python and popular deep learning libraries like TensorFlow or PyTorch to perform unsupervised feature learning and reconstruction tasks. Use MNIST dataset.
+
+Program 4: Implement a Convolutional Neural Network (CNN) using Python and a deep learning library (PyTorch) to classify images from the CIFAR-10 dataset. Use CIFAR-100 dataset and retrain the model.
+
+Program 5: Implement a language model using Long Short-Term Memory (LSTM) to predict the next word in a given sentence. Design a Python program that takes a sequence of words as input and utilizes an LSTM model to predict the most probable word that follows the given sequence. Evaluate the accuracy of your model using an appropriate dataset and provide insights on the effectiveness of LSTM for next word prediction. Use Tensorflow or Keras Library, Use dataset from here https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view 
+
+Program 6: Use PyTorch to build and train the LeNet-5 architecture on the MNIST dataset. Define hyperparameters, train the model, test its performance, and run your code to generate classification accuracy, precision, recall, F1 scores and training/validation plots.
